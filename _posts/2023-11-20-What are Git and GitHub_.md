@@ -5,7 +5,7 @@ categories: AI
 tag: [git, github, gitblog]
 author_profile: false
 sidebar:
-    nav: "docs"  
+    nav: "menu"  
 use_math: true
 ---
 

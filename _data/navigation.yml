@@ -25,6 +25,11 @@ docs:
         url: /about/
       - title: "Search"
         url: /search/
+
+
+  menu:
+    - title: "Category"
+      use: true
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
