@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: "Categories"
+  - title: "카테고리"
     url: /categories/
-  - title: "Archive"
+  - title: "아카이브"
     url: /year-archive-grid/
-  - title: "Tags"
+  - title: "태그"
     url: /tags/
-  - title: "About"
+  - title: "소개글"
     url: /about/
-  - title: "Search"
+  - title: "글 검색"
     url: /search/
 
 
