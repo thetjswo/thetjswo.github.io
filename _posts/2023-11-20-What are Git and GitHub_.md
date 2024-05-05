@@ -3,10 +3,6 @@ layout: single
 title:  "What are Git and GitHub?"
 categories: AI
 tag: [git, github, gitblog]
-toc: true
-toc_sticky: true
-toc_label: 목차
-toc_icon: "fas fa-list-ul"
 author_profile: false
 sidebar:
     nav: "docs"
