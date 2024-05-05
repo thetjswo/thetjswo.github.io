@@ -2,6 +2,8 @@
 main:
   - title: "Categories"
     url: /categories/
+  - title: "Archive"
+    url: /archive/
   - title: "Tags"
     url: /tags/
   - title: "About"
@@ -15,6 +17,8 @@ docs:
     children:
       - title: "Categories"
         url: /categories/
+      - title: "Archive"
+        url: /archive/
       - title: "Tags"
         url: /tags/
       - title: "About"
