@@ -3,7 +3,7 @@ main:
   - title: "Categories"
     url: /categories/
   - title: "Archive"
-    url: /archive/
+    url: /year-archive-grid/
   - title: "Tags"
     url: /tags/
   - title: "About"
@@ -18,7 +18,7 @@ docs:
       - title: "Categories"
         url: /categories/
       - title: "Archive"
-        url: /archive/
+        url: /year-archive-grid/
       - title: "Tags"
         url: /tags/
       - title: "About"
